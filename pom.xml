@@ -23,6 +23,7 @@
     <module>tacocloud-domain</module>
       <module>tacocloud-api</module>
     <module>tacocloud-security</module>
+    <module>tacocloud-message-jms</module>
   </modules>
 
   <properties>
