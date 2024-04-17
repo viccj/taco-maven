@@ -40,6 +40,11 @@
             <artifactId>tacocloud-security</artifactId>
             <version>${taco.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.lazyvic</groupId>
+            <artifactId>tacocloud-message-jms</artifactId>
+            <version>${taco.version}</version>
+        </dependency>
         <!-- Necessary Boot starters -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
